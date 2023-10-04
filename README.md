@@ -1,7 +1,5 @@
 # Problem-Solving-Philosophy
 
-## My problem Solving framework
-
 - Problem solving frameworks
   - how to solve well defined problem
   - how to solve ill defined problem
