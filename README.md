@@ -1,14 +1,16 @@
 # Problem-Solving-Philosophy
 
-This repo covers two categories
+This repo covers two categories:
 
-- Problem solving frameworks
-  - how to solve well defined problem
-  - how to solve ill defined problem
-- Problem solving,  domain knowledge, and experience
-    - how to identify the overview of a domain knowledge systematically
-    - How to apply problem solving framework to specific domain problem
+- **Problem Solving Frameworks**
+  - How to solve well-defined problems
+  - How to solve ill-defined problems
 
-## Problem solving frameworks notes
+- **Problem Solving, Domain Knowledge, and Experience**
+  - How to identify the overview of domain knowledge systematically
+  - How to apply problem-solving frameworks to specific domain problems
 
-- [Goal Tree, from \<\<The Logical Thinking Process>>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/13)
+## Problem Solving Frameworks Book Reading Notes
+
+- [TOC:\<\<The Logical Thinking Process\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/13)
+- [System Dynamic: \<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
