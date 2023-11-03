@@ -10,7 +10,9 @@ This repo covers two categories:
   - How to identify the overview of domain knowledge systematically
   - How to apply problem-solving frameworks to specific domain problems
 
-## Problem Solving Frameworks Book Reading Notes
+## Problem Solving Frameworks
 
-- [TOC:\<\<The Logical Thinking Process\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/13)
-- [System Dynamic: \<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
+- The Logical Thinking Process Series
+  - [\<\<The Logical Thinking Process\>\> Series](https://github.com/reboottime/Problem-Solving-Philosophy/issues/13)
+- System Dynamics Series:
+  - [\<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
