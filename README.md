@@ -14,5 +14,6 @@ This repo covers two categories:
 
 - The Logical Thinking Process Series
   - [\<\<The Logical Thinking Process\>\> Series](https://github.com/reboottime/Problem-Solving-Philosophy/issues/13)
+  - [\<\<Problem Solving 101\>\> Series](https://github.com/reboottime/Problem-Solving-Philosophy/issues/27)
 - System Dynamics Series:
   - [\<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
