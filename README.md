@@ -17,7 +17,3 @@ This repo covers two categories:
   - [\<\<Problem Solving 101\>\> Series](https://github.com/reboottime/Problem-Solving-Philosophy/issues/27)
 - System Dynamics Series:
   - [\<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
-
-## Thinking Models
-
-- [Top Down vs Bottom Up approaches](https://github.com/reboottime/Problem-Solving-Philosophy/issues/37)
