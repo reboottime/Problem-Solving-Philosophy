@@ -1,6 +1,10 @@
-# Problem-Solving-Philosophy
+# Problem Solving Philosophy
 
-This repo covers three categories:
+**Motivation**: In this era of information overload and AI , I believe that the ability to think critically, absorb information effectively, and learn rapidly is important.
+
+**About this repository**: This repository is an attempt to find systematical problem solving framework(s) and train myself with above ability.
+
+The content have been breaking into two categories primarily
 
 - **Problem Solving Frameworks**
 
@@ -11,8 +15,6 @@ This repo covers three categories:
   - How to identify the overview of domain knowledge systematically
   - How to apply problem-solving frameworks to specific domain problems
 
-And some ideas that could be beneficial for problem solving but have found a way to categorize them yet.
-
 ## Problem Solving Frameworks
 
 - The Logical Thinking Process Series
@@ -21,6 +23,6 @@ And some ideas that could be beneficial for problem solving but have found a way
 - System Dynamics Series:
   - [\<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
 
-## Others
+## Problem Solving, Domain Knowledge, and Experience
 
 - [PhD, what are you studying?](https://github.com/reboottime/Problem-Solving-Philosophy/issues/40)
