@@ -1,8 +1,8 @@
 # Problem Solving Philosophy
 
-**Motivation**: In this era of information overload and AI , I believe that the ability to think critically, absorb information effectively, and learn rapidly is important.
+**Motivation**: In this era of information overload and AI , I believe owning the ability to think critically, absorb information effectively, and learn rapidly is the key.
 
-**About this repository**: This repository is an attempt to find systematical problem solving framework(s) and train myself with above ability.
+**About this repository**: This repository is an attempt to find systematic problem-solving frameworks and train myself to have the abilities mentioned above.
 
 The content have been breaking into two categories primarily
 
@@ -26,3 +26,4 @@ The content have been breaking into two categories primarily
 ## Problem Solving, Domain Knowledge, and Experience
 
 - [PhD, what are you studying?](https://github.com/reboottime/Problem-Solving-Philosophy/issues/40)
+- [Experience, Domain knowledge and Problem Solving Framework](https://github.com/reboottime/Problem-Solving-Philosophy/issues/9)
