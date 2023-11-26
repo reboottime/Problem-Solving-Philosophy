@@ -1,8 +1,12 @@
 # Problem Solving Philosophy
 
-**Motivation**: In this era of information overload and AI , I believe owning the ability to think critically, absorb information effectively, and learn rapidly is the key.
+## About
+
+**Motivation**: In this era of information overload and AI , I believe owning the ability to think critically, absorb information effectively, and learn quickly are essential.
 
 **About this repository**: This repository is an attempt to find systematic problem-solving frameworks and train myself to have the abilities mentioned above.
+
+<br />
 
 The content have been breaking into two categories primarily
 
@@ -14,6 +18,8 @@ The content have been breaking into two categories primarily
 - **Problem Solving, Domain Knowledge, and Experience**
   - How to identify the overview of domain knowledge systematically
   - How to apply problem-solving frameworks to specific domain problems
+
+<br />
 
 ## Problem Solving Frameworks
 
