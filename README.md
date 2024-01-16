@@ -28,6 +28,7 @@ The content have been breaking into two categories primarily
   - [\<\<Problem Solving 101\>\> Series](https://github.com/reboottime/Problem-Solving-Philosophy/issues/27)
 - System Dynamics Series:
   - [\<\<Thinking In Systems\>\>](https://github.com/reboottime/Problem-Solving-Philosophy/issues/23)
+- [Mckinsey Problem solving Framework](https://github.com/reboottime/Problem-Solving-Philosophy/issues/50)
 
 ## Problem Solving, Domain Knowledge, and Experience
 
