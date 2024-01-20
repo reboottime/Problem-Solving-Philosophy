@@ -34,3 +34,4 @@ The content have been breaking into two categories primarily
 
 - [PhD, what are you studying?](https://github.com/reboottime/Problem-Solving-Philosophy/issues/40)
 - [Experience, Domain knowledge and Problem Solving Framework](https://github.com/reboottime/Problem-Solving-Philosophy/issues/9)
+- [From cognition problem to engineering problem](https://github.com/reboottime/Problem-Solving-Philosophy/issues/51)
